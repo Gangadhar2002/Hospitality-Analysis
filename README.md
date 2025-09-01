@@ -14,4 +14,4 @@ The hospitality industry faces challenges in consolidating and analyzing perform
 # Conclusion
 The Hospitality Analytics Dashboard provides a comprehensive view of hotel performance by consolidating revenue, occupancy, and booking data across multiple cities. The insights highlight that weekdays drive higher revenue, while cancellations and no-shows significantly affect overall earnings. Room categories like Elite and Premium contribute the most to revenue, guiding hotels to focus on these segments. This dashboard enables data-driven decision-making, helping businesses improve efficiency, reduce revenue leakages, and maximize growth opportunities.
 
-Dashboard Preview()
+Dashboard Preview(https://github.com/Gangadhar2002/Hospitality-Analysis/blob/main/Hospitality_Analysis%5B1%5D.pbix)
